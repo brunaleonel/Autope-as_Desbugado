@@ -20,7 +20,7 @@ public class TelaPeças extends javax.swing.JInternalFrame {
         
        
         initComponents();
-                centralizarComponente();
+        centralizarComponente();
 
     }
 
